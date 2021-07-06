@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+.flexible{
+    display: flex;
+}
+.first-intro{
+    width: 50%;
+    padding: 164px;
+}
+.first-intro p{
+    padding: 20px;
+    padding-left: 0px;
+
+}
+.color{
+    color: #e52385;
+}
+.first-person{
+    width: 50%;
+}
+.second-section{
+    background-image: url(images/female/Frame\ 58.png);
+    background-repeat:no-repeat;
+    background-position: center;
+    height: 650px;
+    background-size: cover;
+    
+    
+    
+
+}
+.second-intro{
+    display: inline-block;
+    margin-left: 908px;
+    margin-top: 273px;
+  
+}
+.second-intro p{
+    padding:10px 0px 10px
+}
+
+
+.botton{
+    text-decoration: none;
+    background-image: linear-gradient(#fe492d,#fd7446);
+    padding: 16px 34px;
+    border-radius: 40px;
+    box-shadow:6px 5px 12px grey;
+    color:#ddd
+}
